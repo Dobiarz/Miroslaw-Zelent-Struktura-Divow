@@ -1,0 +1,106 @@
+body
+{
+background-image:url(../Img/tweed.png);
+/* Background pattern from Toptal Subtle Patterns */
+margin: 0;
+}
+.container
+{
+	background-color: white;
+	width:900px;
+	height:600px;
+	margin: auto;	
+}
+.logo1
+{
+	background-color: darkcyan;
+	width:900px;
+	height:100px;
+	margin: auto;	
+}
+.menu1
+{
+	background-color: chocolate;
+	width:600px;
+	height:100px;
+	float: left;	
+}
+.menu2
+{
+	background-color: coral;
+	width:300px;
+	height:100px;
+	float: left	
+}
+.content
+{
+	background-color: bisque;
+	width:600px;
+	height:200px;
+	float: left
+}
+.content1
+{
+	background-color: brown;
+	width:300px;
+	height:100px;
+	float: left
+}
+.content2
+{
+	background-color: chartreuse;
+	width:300px;
+	height:100px;
+	float: left
+}
+.content3
+{
+	background-color: darkgreen;
+	width:600px;
+	height:100px;
+	clear: both
+}
+.sidebar
+{
+	background-color: teal;
+	width:300px;
+	height:200px;
+	float: left
+}
+
+.footer1
+{
+	background-color: pink;
+	width:300px;
+	height:100px;
+	float: left
+}
+.footer2
+{
+	background-color: plum;
+	width:300px;
+	height:100px;
+	float: left
+}
+.footer3
+{
+	background-color: powderblue;
+	width:300px;
+	height:100px;
+	float: left
+}
+
+.footer4
+{
+	background-color: RebeccaPurple;
+	width:450px;
+	height:100px;
+	float: left
+}
+.footer5
+{
+	background-color:Purple;
+	width:450px;
+	height:100px;
+	float: left
+}
