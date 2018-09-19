@@ -1,2 +1,2 @@
-# Miroslaw-Zelent-Struktura-Diwow
+# Miroslaw-Zelent-Struktura-Divow
 Exercise from course Programowanie webowe. Miroslaw Zelent
